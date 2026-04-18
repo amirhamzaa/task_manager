@@ -1,9 +1,4 @@
-# 🧠 Task Manager (Node.js)
-
-A simple Command-Line Task Management System built using **Node.js**.
-This project allows users to manage tasks efficiently from the terminal without using any external libraries or frameworks.
-
----
+# 🧠 Task Manager (Ostad)
 
 ## 🚀 Features
 
